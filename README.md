@@ -1,6 +1,8 @@
 # ImageClassifierTensorflow
 *Intent:* Building an Image Classifier using Tensorflow in Javascript
 
+*Outline:* A web app made on HTML and JavaScript to classify webcam images based on TensorFlow's MobileNet model. Input is transfered to a KNN classifier. 
+
 *Data Science focus:*
 - convolutional neural networks with Tensorflow (Google)
 - Upload code to GitHub
